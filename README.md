@@ -1,0 +1,1 @@
+https://github.com/poparcosmin/django-template
